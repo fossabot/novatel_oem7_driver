@@ -1,4 +1,6 @@
 # NovAtel OEM7 Driver
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftgedicke%2Fnovatel_oem7_driver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftgedicke%2Fnovatel_oem7_driver?ref=badge_shield)
+
 [**ROS**](https://www.ros.org) Driver for [**NovAtel**](https://www.novatel.com) OEM7 GNSS/SPAN Receivers.  
 
 ## Getting Started
@@ -82,3 +84,6 @@ http://wiki.ros.org/novatel_oem7_driver
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftgedicke%2Fnovatel_oem7_driver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftgedicke%2Fnovatel_oem7_driver?ref=badge_large)
